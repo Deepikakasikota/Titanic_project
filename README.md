@@ -15,7 +15,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 Data Cleaning and Imputation
 
-Load and chech the data
+Load and check the data
 
 ### Step 2:
 
